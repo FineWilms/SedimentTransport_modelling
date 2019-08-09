@@ -1,0 +1,9 @@
+*.csv
+*.png
+*.pdf
+reading
+images_daily
+postprocessed_waterlevel
+rawdata
+reading
+err.txt
